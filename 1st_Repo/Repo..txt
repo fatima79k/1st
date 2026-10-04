@@ -1,3 +1,7 @@
 This is our 1st repository.
 We are in the Git01 session
 We are writing another sentence.
+<<<<<<< HEAD
+I am changing this file.
+=======
+>>>>>>> e8862f17f78267752ba5e3bf62bca5bc5c3088b4
