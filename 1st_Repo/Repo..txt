@@ -1,1 +1,2 @@
 This is our 1st repository.
+We are in the Git01 session
